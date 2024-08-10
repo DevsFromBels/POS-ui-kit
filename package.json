@@ -1,6 +1,6 @@
 {
   "name": "pos-ui-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "POS UI kit components with for React",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
